@@ -1,0 +1,32 @@
+body {
+    background-color: darkblue;
+    color: orange;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+ul {
+    background-color: darkgreen;
+    border-radius: 30px;
+}
+
+.kerek {
+    border-radius: 15px;
+}
+
+ol {
+    background-color: darkgreen;
+    border-radius: 30px;
+    list-style: decimal inside none;
+    text-align: center;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.kicsinyités {
+    width: 350px;
+}
